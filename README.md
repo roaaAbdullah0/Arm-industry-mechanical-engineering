@@ -1,4 +1,4 @@
-# Assemply arm
+# Assembly arm
  1. _base_
  1. _waist_
  1. _arm01_
